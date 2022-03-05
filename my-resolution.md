@@ -15,6 +15,10 @@
 - Business Model Canvas
 - Micro Frontend
 - React Js
+
+### Sabrina
+
+-Javascript karena Javascript adalah bahasa pemrograman yang digunakan dalam pengembangan web untuk membuatnya lebih dinamis dan lebih interaktif. Hampir semua kegunaan aplikasi yang membuat internet diperlukan untuk kehidupan modern.
 ## Career Plan
 
 ### Rayhan
@@ -25,4 +29,7 @@
 ### Frisca
 
 - Business Analyst
+- Front End Developer
+### Sabrina
+
 - Front End Developer
